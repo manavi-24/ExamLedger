@@ -108,7 +108,7 @@ flowchart TD
 | Smart Contracts      | Solidity                                 |
 | Storage              | IPFS                                     |
 | Authentication       | MetaMask Wallet                          |
-| Dev Tools            | Hardhat, Remix, MetaMask, IPFS CLI       |
+
 
 ---
 
