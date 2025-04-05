@@ -1,0 +1,261 @@
+await ExamSubmissionManager.getSubmission(0,"0xFD47e16d5CcB1Bc93bDb8ECF8fB14BACbb373EF6");
+const result2 = await ExamResults.submitResult("0xFD47e16d5CcB1Bc93bDb8ECF8fB14BACbb373EF6",0,2,"avianshresulthash");
+const result = await ExamResults.submitResult("0xFD47e16d5CcB1Bc93bDb8ECF8fB14BACbb373EF6",0,2,"avianshresulthash");
+await ExamResults.submitResult("0xFD47e16d5CcB1Bc93bDb8ECF8fB14BACbb373EF6",0,2,"avianshresulthash");
+);
+  "avianshresulthash"                           // IPFS hash
+  2,                                            // score
+  0,                                            // examId
+  "0xFD47e16d5CcB1Bc93bDb8ECF8fB14BACbb373EF6", // student
+await ExamResults.submitResult(
+ let ExamResults = await ethers.getContractAt("ExamResults", "0xA4116462CCA2091A0AfD943b7306de4Dac97d172");
+await ExamSubmissionManager.submitResult("0xFD47e16d5CcB1Bc93bDb8ECF8fB14BACbb373EF6",0,2,"avianshresulthash");
+ let ExamSubmissionManager = await ethers.getContractAt("ExamSubmissionManager", "0xA4116462CCA2091A0AfD943b7306de4Dac97d172");
+await ExamManager.getExam(0);
+await ExamManager.activateExam(0);
+await ExamManager.getExam(0);
+await ExamManager.activateExam(0);
+await ExamManager.getExam(0);
+await ExamManager.createExam("Blockchain-Exam 1" , Math.floor(Date.now() / 1000) + 60, 120 , "QmezUXg9ToV7Pc3H9XdtLV96fGQJzjAUmkQRLEDvpFrC6y");
+let ExamManager = await ethers.getContractAt("ExamManager", "0xEBB7376B1D6084243519BFA9c1067F1Ff5EB3C11");
+.exit
+await ExamSubmissionManager.getAllSubmissionsForExam(0);
+await getAllSubmissionsForExam(0);
+let ExamSubmissionManager = await ethers.getContractAt("ExamSubmissionManager", "0x07ffA3Ed385Ad7Ee8B26eBe2F01c620d03985BD0");
+console.log(am);
+const am = await ExamManager.getExam(0);
+const ab = await ExamManager.getExam(0);
+await ExamManager.activateExam(0);
+console.log(ab);
+const ab = await ExamManager.getExam(0);
+await ExamManager.activateExam(0);
+console.log(a);
+console.log(0);
+const a = await ExamManager.getExam(0);
+await ExamManager.createExam("Blockchain-Exam 1" , Math.floor(Date.now() / 1000) + 60, 120 , "QmezUXg9ToV7Pc3H9XdtLV96fGQJzjAUmkQRLEDvpFrC6y");
+let ExamManager = await ethers.getContractAt("ExamManager", "0x35833a2Ba1F7EE8d5F140464842A6C479abD0699");
+.exit
+console.log(e);
+const e = await ExamManager.getExam(0);
+await ExamManager.activateExam(0);
+await ExamManager.createExam("Blockchain-Exam 1" , Math.floor(Date.now() / 1000) + 60, 120 , "QmezUXg9ToV7Pc3H9XdtLV96fGQJzjAUmkQRLEDvpFrC6y");
+let ExamManager = await ethers.getContractAt("ExamManager", "0x121e10776bB153848bd1C2EF1655345d1dB37369");
+.exit
+console.log(ee);
+const ee = await ExamManager.getExam(0);
+await ExamManager.activateExam(0);
+console.log(e);
+cosole.log(e);
+const e = await ExamManager.getExam(0);
+await ExamManager.createExam("Blockchain-Exam 1" , Math.floor(Date.now() / 1000) + 60, 120 , "QmezUXg9ToV7Pc3H9XdtLV96fGQJzjAUmkQRLEDvpFrC6y");
+let ExamManager = await ethers.getContractAt("ExamManager", "0x42E851523C988Dc3781F36DfDC796932135AE2d2");
+.exit
+console.log(ee);
+const ee = await ExamManager.getExam(0);
+await ExamManager.activateExam(0);
+console.log(e);
+const e = await ExamManager.getExam(0);
+await ExamManager.createExam("Blockchain-Exam" , Math.floor(Date.now() / 1000) + 60, 120 , "QmezUXg9ToV7Pc3H9XdtLV96fGQJzjAUmkQRLEDvpFrC6y");
+let ExamManager = await ethers.getContractAt("ExamManager", "0x2CDA05b8681bB21D3f07Da4bb85808643e21C1ae");
+.exit 
+const e2 = await ExamManager.getExam(1);
+const e = await ExamManager.getExam(1);
+const e = await ExamManager.getExam(0);
+await ExamManager.createExam("Blockchain-Exam 2" , Math.floor(Date.now() / 1000) + 60, 120 , "QmezUXg9ToV7Pc3H9XdtLV96fGQJzjAUmkQRLEDvpFrC6y");
+const exam = await ExamManager.getExam(0);
+ let ExamManager = await ethers.getContractAt("ExamManager", "0x5FbDB2315678afecb367f032d93F642f64180aa3");
+.exit
+const ee = await ExamManager.getExam(0);
+const exam2 = await ExamManager.getExam(0);
+const exam1 = await ExamManager.getexam(0);
+await ExamManager.createExam("Blockchain-Exam 1" , Math.floor(Date.now() / 1000) + 60, 120 , "https://ipfs.io/ipfs/QmezUXg9ToV7Pc3H9XdtLV96fGQJzjAUmkQRLEDvpFrC6y");
+let ExamManager = await ethers.getContractAt("ExamManager", "0x5FbDB2315678afecb367f032d93F642f64180aa3");
+await ExamManager.activateExam(0);
+console.log(exam);
+const exam = await ExamManager.getExam(0);
+await ExamManager.createExam("Blockchain-Exam 1" , Math.floor(Date.now() / 1000) + 60, 120 ,"QmezUXg9ToV7Pc3H9XdtLV96fGQJzjAUmkQRLEDvpFrC6y");
+let ExamManager = await ethers.getContractAt("ExamManager", "0x28EA4cAcdA035f295272474F18838c95bCB1A6fB");
+.exit
+await ExamManager.activateExam(0);
+console.log(exam);
+const exam = await ExamManager.getExam(0);
+await ExamManager.createExam("Blockchain-Exam 1" , Math.floor(Date.now() / 1000) + 60, 120 ,"QmezUXg9ToV7Pc3H9XdtLV96fGQJzjAUmkQRLEDvpFrC6y");
+let ExamManager = await ethers.getContractAt("ExamManager", "0x605634Aa5A2044153A32aBd6ebC650A3eE68544b");
+.exit
+console.log(exam1);
+const exam1 = await ExamManager.getExam(0);
+await ExamManager.createExam("Blockchain-Exam" , Math.floor(Date.now() / 1000) + 60, 120 , "QmezUXg9ToV7Pc3H9XdtLV96fGQJzjAUmkQRLEDvpFrC6y");
+let ExamManager = await ethers.getContractAt("ExamManager", "0x502beB8a3227c35268a3f52c1C17e4dAC0D260F3");
+et ExamManager = await ethers.getContractAt("ExamManager", "0x502beB8a3227c35268a3f52c1C17e4dAC0D260F3");
+.exit
+console.log(student2);
+const student2 = await StudentRegistry.getStudent("0xB34983410Bccf1256eb29D6302b5e41Ae96ef810");
+const student = await StudentRegistry.getStudent("0xB34983410Bccf1256eb29D6302b5e41Ae96ef810");
+console.log(exam4);
+const exam4 = await ExamManager.getExam(3);
+console.log(exam3)
+const exam3 = await ExamManager.getExam(2);
+console.log(exam2);
+const exam2 = await ExamManager.getExam(1);
+console.log(exam1);
+const exam1 = await ExamManager.getExam(0);
+await ExamManager.createExam("Computer Science Exam", now + 14400, 9000, "QmCSExam123");
+await ExamManager.createExam("Chemistry Quiz", now + 10800, 3600, "QmChemQuiz123");
+await ExamManager.createExam("Physics Midterm", now + 7200, 5400, "QmPhysicsMid123");
+await ExamManager.createExam("Math Final", now + 3600, 7200, "QmMathFinal123");
+let ExamManager = await ethers.getContractAt("ExamManager", "0x9663E937ECcac24f5ddFBf58464Ba84A360958dA");
+await examManager.createExam("Computer Science Exam", now + 14400, 9000, "QmCSExam123");
+await examManager.createExam("Chemistry Quiz", now + 10800, 3600, "QmChemQuiz123");
+await examManager.createExam("Physics Midterm", now + 7200, 5400, "QmPhysicsMid123");
+await examManager.createExam("Math Final", now + 3600, 7200, "QmMathFinal123");
+const now = Math.floor(Date.now() / 1000);
+console.log(student);
+const student = await StudentRegistry.getStudent("0x16D753c6635819905A37b44e1483Ab6a0a20c470");
+let StudentRegistry = await ethers.getContractAt("StudentRegistry", "0xD1A34aD16c607DC009288Fa27DC64cB75F4Fda54");
+.exit 
+const stu = await StudentRegistry.getStudent("0x16D753c6635819905A37b44e1483Ab6a0a20c470");
+let StudentRegistry = await ethers.getContractAt("StudentRegistry", "0xCEBe9CBb523c5D24d19358964933B3Eb1E9254F6");
+clear
+cls
+const stud = await StudentRegistry.getStudent("0x16D753c6635819905A37b44e1483Ab6a0a20c470");
+const studen = await StudentRegistry.getStudent("0x16D753c6635819905A37b44e1483Ab6a0a20c470");
+console.log(studen);
+const studen = await StudentRegistry.getStudent("0xYourRegisteredAddress");
+const student4 = await StudentRegistry.getStudent("0x16D753c6635819905A37b44e1483Ab6a0a20c470");
+const student3 = await StudentRegistry.getStudent("0x16D753c6635819905A37b44e1483Ab6a0a20c470");
+const student3 = await StudentRegistry.getStudent(0x16D753c6635819905A37b44e1483Ab6a0a20c470);
+cosnst student3 = await StudentRegistry.getStudent(0x16D753c6635819905A37b44e1483Ab6a0a20c470);
+student2 = await StudentRegistry.getStudent(0x16D753c6635819905A37b44e1483Ab6a0a20c470);
+const student2 = await StudentRegistry.getStudent(0x16D753c6635819905A37b44e1483Ab6a0a20c470);
+const student = await StudentRegistry.getStudent(0x16D753c6635819905A37b44e1483Ab6a0a20c470);
+const student = await StudentRegistery.getStudent(0x16D753c6635819905A37b44e1483Ab6a0a20c470);
+let StudentRegistry = await ethers.getContractAt("StudentRegistry", "0x240D439Dd46bF075bf680356B293703508Becd98");
+let RegisterStudent = await ethers.getContractAt("RegisterStudent","0xCEBe9CBb523c5D24d19358964933B3Eb1E9254F6");
+let ExamSubmissionManager = await ethers.getContractAt("ExamSubmissionManager","0x6c0E04A38F7f5D11D5DC421C1bC3CF2985966BfB");
+let StudentRegistery = await ethers.getContractAt("StudentRegistry","0xEFbA2cc435c4bb63635ec1ee71a7699C4338D42E");
+let StudentRegistry = await ethers.getContractAt("StudentRegistry","0xEFbA2cc435c4bb63635ec1ee71a7699C4338D42E");
+let StudentRegistry = await ethers.getContractAt("StudentRegistery","0xEFbA2cc435c4bb63635ec1ee71a7699C4338D42E");
+let ExamManager = await ethers.getContractAt("ExamManager","0x954b1Eb9e53ECaa6934Ad5d28b26240a42c80684");
+late ExamManager = await ethers.getContractAt("ExamManager","0x954b1Eb9e53ECaa6934Ad5d28b26240a42c80684");
+console.log(gg);
+const gg = await ExamSubmissionManager.getAllSubmissionsForExam(2);
+const getsubmit3 = await ExamSubmissionManager.getAllSubmissionsForExam(2);
+console.log(getsubmit3);
+console.log(getSubmit3);
+console.log(getSubmit3)
+const getsubmit3 = await ExamSubmissionManager.getSubmission(2, "0x16D753c6635819905A37b44e1483Ab6a0a20c470");
+const getsubmit2 = await ExamSubmissionManager.getSubmission(2, "0x16D753c6635819905A37b44e1483Ab6a0a20c470");
+const getsubmit2 = await ExamSubmissionManager.getSubmission(2,0x16D753c6635819905A37b44e1483Ab6a0a20c470);
+const getsubmit1 = await ExamSubmissionManager.getSubmission(2,0x16D753c6635819905A37b44e1483Ab6a0a20c470);
+const getsubmit1 = await ExamSubmissionManager.getSubmission(2 , 0x16D753c6635819905A37b44e1483Ab6a0a20c470);
+console.log(submit1);
+const submit1 = await ExamSubmissionManager.submitExam(2 , "submitbyaviipfshash");
+let ExamSubmissionManager = await ethers.getContractAt("ExamSubmissionManager", "0xfeE69F5A21852c6D2D179667332a6930BCE579Ed");
+console.log(exam5);
+const exam5 = await ExamManager.getExam(2);
+const exam4 = await ExamManager.getExam(2);
+await ExamManager.activateExam(2);
+console.log(exam3);
+await ExamManager.activateExam(2);
+const exam4 = await ExamManager.getExam(3);
+console.log(exam3);
+const exam3 = await ExamManager.getExam(2);
+const examDetails3 = await ExamManager.getExam(2);
+console.log(examDetails3);
+const examDetails3 = await ExamManager.getExam(1);
+await ExamManager.activateExam(0);
+console.log(result2);
+const result2 = await ExamManager.createExam("Blockchain Exam 2", Math.floor(Date.now() / 1000) + 10, "3600", "exam2detailsonipfs");
+const result = await ExamManager.createExam("Blockchain Exam 2", Math.floor(Date.now() / 1000) + 10, "3600", "exam2detailsonipfs");
+await ExamManager.getCurrentTimestamp();
+await ExamManager.getCurrentTimeStamp();
+await ExamManager.activateExam(0);
+console.log(examDetails2);
+const examDetails2 = await ExamManager.getExam(0);
+const examDetails1 = await ExamManager.getExam(0);
+const examDetails1 = await ExamManager.methods.getExam(0).call();
+const examDetails = await ExamManager.methods.getExam(0).call();
+console.log(examDetails);
+const examDetails = await ExamManager.methods.getExam(examId).call();
+// Fetch the exam details
+const examId = 0; // Replace with the actual examId of the exam you want to fetch
+// Assuming you have the examId from when the exam was created
+console.log(result);
+const result = await ExamManager.createExam("Blockchain Exam", Math.floor(Date.now() / 1000) + 86400, "3600", "exam1detailsonipfs");
+const exam1 = await ExamManager.createExam("Blockchain Exam", Math.floor(Date.now() / 1000) + 86400,"3600","exam1detailsonipfs");
+let ExamManager  = await ethers.getContractAt("ExamManager", "0x4e8F78b3D0721949fCa9E07222bB31EEe13ef976");
+const student1 = await StudentRegistry.registerStudent("Avinash","23BEC226","avinashdetailsonipfs");
+let StudentRegistry = await ethers.getContractAt("StudentRegistry", "0xE33990473035C48E175A8F07feD5e7178530a960");
+.exit
+const examData2 = await ExamManager.getExam(0); // Try examId = 1
+const examData = await ExamManager.getExam(0); // Try examId = 1
+console.log(examData);
+const examData = await ExamManager.getExam(1); // Try examId = 1
+console.log(receipt);
+const receipt = await ethers.provider.getTransactionReceipt('0x2ac2432efdbce72c4947e7d5b4c67bc193b599ae7e539d541bc70cb9a6522261');
+await ExamManager.getExam(0);
+await ExamManager.createExam("Blockchain-Exam 1" , Math.floor(Date.now() / 1000) + 60, 120 , "ipfsExamCID");
+await ExamManager.getExam(0);
+const ExamManager = await ethers.getContractAt("ExamManager", "0xd598fE3c9299eE3cd188E462f8b5c118C8E90661");
+ExamManager = await ethers.getContractAt("ExamManager", "0xd598fE3c9299eE3cd188E462f8b5c118C8E90661");
+.exit
+await ExamManager.createExam("Math Exam", Date.now() + 10000, 60, "ipfsHashHere");
+const exam = await ExamManager.getExam(0);
+await ExamManager.getExam(0);
+await ExamManager.createExam("Blockchain-Exam 1" , Math.floor(Date.now() / 1000) + 60, 120 , "ipfsExamCID");
+const ExamManager = await ethers.getContractAt("ExamManager","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const ExamManage = await ethers.getContractAt("ExamManager","0x5FbDB2315678afecb367f032d93F642f64180aa3")
+const ExamManage = await ethers.getContractAt
+.exit
+const examDetails = await ExamManager.getExam(0);
+await ExamManager.createExam("Blockchain-Exam 1" , Math.floor(Date.now() / 1000) + 60, 120 , "ipfsExamCID");
+await ExamManager.createExam("Blockchain Exam", Math.floor(Date.now() / 1000) + 600, 5400, "Final Year Blockchain Test");
+await ExamManager.getExam(0);
+await ExamManager.createExam("Blockchain Exam", Math.floor(Date.now() / 1000) + 600, 5400, "Final Year Blockchain Test");
+await ExamManager.createExam("Blockchain Exam", block.timestamp + 600, 5400, "Final Year Blockchain Test");
+await ExamManager.getExam(0);
+await ExamManager.getexam(0);
+const ExamSubmissionManager = await ethers.getContractAt("ExamSubmissionManager", "0xD83D5b1A161BDb059EE8e99Ef2d3478352530fA8");
+const StudentRegistry = await ethers.getContractAt("StudentRegistry", "0xA76d96fC6F3cCa072Cd45EacbFeef5FB71fd12FC");
+const ExamManager = await ethers.getContractAt("ExamManager","0xcb5Eb915b747C51BF4C87e5D5E98dcB0011aD192");
+.exit
+const ExamManager = await ethers.getContractAt("ExamManager","0xcb5Eb915b747C51BF4C87e5D5E98dcB0011aD192");
+const ExamManager = await ethers.getContractAt("0xcb5Eb915b747C51BF4C87e5D5E98dcB0011aD192");
+await ExamManager.getExam(0)
+});
+  ipfsHash: exam[5]
+  isActivated: exam[4],
+  admin: exam[3],
+  duration: Number(exam[2]),
+  date: Number(exam[1]),  // Convert BigInt to Number
+  name: exam[0],
+console.log({
+const exam = await ExamManager.getExam(0);
+await StudentRegistry.getStudent("0x16D753c6635819905A37b44e1483Ab6a0a20c470")
+await StudentRegistery.getStudent("0x16D753c6635819905A37b44e1483Ab6a0a20c470")
+await getStudent("0x16D753c6635819905A37b44e1483Ab6a0a20c470")
+await StudentRegistry.registerStudent("Avinash" , "ipfsStudentDetails");
+const StudentRegistry = await ethers.getContractAt("StudentRegistry", "0x240D439Dd46bF075bf680356B293703508Becd98");
+await ExamSubmissionManager.submitExam(0 , "submitted_answers");
+await ExamManager.getExam(0)
+await ExamManager.activateExam(0)
+await ExamSubmissionManager.submitExam(0 , "submitted answers");
+const ExamSubmissionManager = await ethers.getContractAt("ExamSubmissionManager", "0x4371Bc46eF52dB0Ad8ba2308db821585468D3B0f");
+await ExamSubmissionManager.submitExam(0 , "submitted answers");
+await ExamManager.getExam(0)
+console.log(exam);
+const exam = await ExamManager.getExam(0);
+await provider.waitForTransaction("0xadd4707566ae8949b572e3fcd2540844faaccc08b5ed38090eea785699116c28");
+const provider = ethers.provider;
+await provider.waitForTransaction("0xadd4707566ae8949b572e3fcd2540844faaccc08b5ed38090eea785699116c28");
+await ExamManager.createExam("Blockchain-Exam 1" , Math.floor(Date.now() / 1000) + 60, 120 , "ipfsExamCID");
+const exam = await ExamManager.getExam(0)
+const ExamManager = await ethers.getContractAt("ExamManager", "0xE91EeB3AE8Bc235e53764Eb202364f1Be4C63B76");
+.exit
+const ExamManager = await ethers.getContractAt("ExamManager", "0xE91EeB3AE8Bc235e53764Eb202364f1Be4C63B76");
+const ExamSubmissionManager = await ethers.getContractAt("ExamSubmissionManager", "0x4371Bc46eF52dB0Ad8ba2308db821585468D3B0f");
+const StudentRegistry = await ethers.getContractAt("StudentRegistry", "0x240D439Dd46bF075bf680356B293703508Becd98");
+const ExamManager = await ethers.getContractAt("ExamManager", "0xE91EeB3AE8Bc235e53764Eb202364f1Be4C63B76");63B76");
+const ExamSubmissionManager = await ethers.getContractAt("ExamSubmissionManager", "0x4371Bc46eF52dB0Ad8ba2308db821585468D3B0f");
+const StudentRegistry = await ethers.getContractAt("StudentRegistry", "0x240D439Dd46bF075bf680356B293703508Becd98");
+const ExamManager = await ethers.getContractAt("ExamManager", "0xE91EeB3AE8Bc235e53764Eb202364f1Be4C63B76");
