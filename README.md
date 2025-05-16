@@ -16,6 +16,7 @@ A decentralized, secure, and transparent solution for conducting online exams us
 - [👥 Roles & Responsibilities](#-roles--responsibilities)
 - [🚀 Getting Started](#-getting-started)
 - [🎯 Hackathon Goal](#-hackathon-goal)
+- [📷 Screenshots](#-screenshots) 
 - [📜 License](#-license)
 
 ---
